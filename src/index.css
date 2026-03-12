@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+}
